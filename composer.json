@@ -1,0 +1,8 @@
+{
+    "name": "hanxiang-cn/qhQrCodeReader",
+    "type": "library",
+    "description": "QR code decoder / reader",
+    "require": {
+        "khanamiryan/php-qrcode-detector-decoder": ">=0.0.1"
+    }
+}

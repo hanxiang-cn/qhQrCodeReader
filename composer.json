@@ -4,5 +4,14 @@
     "description": "QR code decoder / reader",
     "require": {
         "khanamiryan/php-qrcode-detector-decoder": "1"
-    }
+    },
+    "repositories": [
+        {
+            "packagist": false
+        },
+        {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    ]
 }

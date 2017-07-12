@@ -3,6 +3,6 @@
     "type": "library",
     "description": "QR code decoder / reader",
     "require": {
-        "khanamiryan/php-qrcode-detector-decoder": ">=0.0.1"
+        "khanamiryan/php-qrcode-detector-decoder": ">=1"
     }
 }
